@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\bbuff\Desktop\IntroToSoftEng\simple-refactoring-examples\simple-refactoring-examples\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2954808544.index
+2715258405.index
+1521556166.index
+1413393535.index
+319643515.index
+1693144585.index

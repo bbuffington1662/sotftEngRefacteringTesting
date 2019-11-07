@@ -1,0 +1,20 @@
+package q2.csvfilesource;
+
+import org.junit.Assert;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvFileSource;
+
+public class TestComputation_CsvFileSource {
+
+   @Rule public ExpectedException thrown = ExpectedException.none();
+   // TODO: Write your answer to complete this test case
+   @ParameterizedTest
+   @CsvFileSource(resources = "")
+   public void testGetDiscount() throws Exception {
+	   thrown.expect(Exception.class);
+	  Computation com = new Computation();
+      int result = 0; 
+      Assert.assertEquals(result, null);
+
+   }
+}
